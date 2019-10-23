@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.restaurant1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:7:5-35:19
+14        android:allowBackup="true"
+14-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/AndroidManifest.xml:22:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:13:9-40
+23        <activity android:name="com.example.restaurant1.ui.MyActivityList" >
+23-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:15:9-19:20
+23-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:15:19-75
+24            <meta-data
+24-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:16:13-18:75
+25                android:name="android.support.PARENT_ACTIVITY"
+25-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:17:17-63
+26                android:value="com.example.restaurant1.ui.MainActivity" />
+26-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:18:17-72
+27        </activity>
+28        <activity
+28-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:20:9-28:20
+29            android:name="com.example.restaurant1.ui.MainActivity"
+29-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:21:13-44
+30            android:theme="@style/NoActionBarTheme" >
+30-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:22:13-52
+31            <intent-filter>
+31-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:23:13-27:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:24:17-69
+32-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:24:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:26:17-77
+34-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:26:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="com.example.restaurant1.ui.ActivityDetailActivity" />
+37-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:29:9-95
+37-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:29:19-83
+38        <activity android:name="com.example.restaurant1.ui.ActivityDetailFragment" />
+38-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:30:9-95
+38-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:30:19-83
+39
+40        <meta-data
+40-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:32:9-34:57
+41            android:name="preloaded_fonts"
+41-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:33:13-43
+42            android:resource="@array/preloaded_fonts" />
+42-->/home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:34:13-54
+43
+44        <provider
+44-->[com.squareup.picasso:picasso:2.71828] /home/saphani/.gradle/caches/transforms-2/files-2.1/db00531e39ccc613f0b03b210083aa79/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+45            android:name="com.squareup.picasso.PicassoProvider"
+45-->[com.squareup.picasso:picasso:2.71828] /home/saphani/.gradle/caches/transforms-2/files-2.1/db00531e39ccc613f0b03b210083aa79/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+46            android:authorities="com.example.restaurant1.com.squareup.picasso"
+46-->[com.squareup.picasso:picasso:2.71828] /home/saphani/.gradle/caches/transforms-2/files-2.1/db00531e39ccc613f0b03b210083aa79/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+47            android:exported="false" />
+47-->[com.squareup.picasso:picasso:2.71828] /home/saphani/.gradle/caches/transforms-2/files-2.1/db00531e39ccc613f0b03b210083aa79/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+48    </application>
+49
+50</manifest>
