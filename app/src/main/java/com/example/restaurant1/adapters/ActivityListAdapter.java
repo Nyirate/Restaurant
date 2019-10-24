@@ -12,13 +12,13 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.restaurant1.R;
-import com.example.restaurant1.models.Business;
+import com.example.restaurant1.models.Restaurant;
 import com.example.restaurant1.ui.ActivityDetailActivity;
 import com.squareup.picasso.Picasso;
 
 import org.parceler.Parcels;
 
-import java.util.List;
+import java.util.ArrayList;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -26,10 +26,10 @@ import butterknife.ButterKnife;
 import static com.example.restaurant1.R.layout.activity_list_item;
 
 public class ActivityListAdapter extends RecyclerView.Adapter<ActivityListAdapter.ActivityViewHolder> {
-    private List<Business> mRestaurant;
+    private ArrayList<Restaurant> mRestaurant;
     private Context mContext;
 
-    public ActivityListAdapter(Context context, List<Business> restaurant) {
+    public ActivityListAdapter(Context context, ArrayList<Restaurant> restaurant) {
         mContext = context;
         mRestaurant= restaurant;
 
@@ -69,10 +69,8 @@ public class ActivityListAdapter extends RecyclerView.Adapter<ActivityListAdapte
             mContext = itemView.getContext();
             itemView.setOnClickListener(this);
         }
-        public void bindRestaurant(Business restaurant) {
+        public void bindRestaurant(Restaurant restaurant) {
             mNameTextView.setText(restaurant.getName());
-            mCategoryTextView.setText(restaurant.getCategories().get(0).getTitle());
-            mRatingTextView.setText("Rating: " + restaurant.getRating() + "/5");
             Picasso.get().load(restaurant.getImageUrl()).into(mRestaurantImageView);
         }
         @Override
