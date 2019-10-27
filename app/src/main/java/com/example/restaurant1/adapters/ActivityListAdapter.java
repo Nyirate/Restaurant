@@ -12,13 +12,13 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.restaurant1.R;
-import com.example.restaurant1.models.Restaurant;
+import com.example.restaurant1.models.Business;
 import com.example.restaurant1.ui.ActivityDetailActivity;
 import com.squareup.picasso.Picasso;
 
 import org.parceler.Parcels;
 
-import java.util.ArrayList;
+import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -26,12 +26,12 @@ import butterknife.ButterKnife;
 import static com.example.restaurant1.R.layout.activity_list_item;
 
 public class ActivityListAdapter extends RecyclerView.Adapter<ActivityListAdapter.ActivityViewHolder> {
-    private ArrayList<Restaurant> mRestaurant;
+    private List<Business> mRestaurant;
     private Context mContext;
 
-    public ActivityListAdapter(Context context, ArrayList<Restaurant> restaurant) {
+    public ActivityListAdapter(Context context, List<Business> restaurants) {
         mContext = context;
-        mRestaurant= restaurant;
+        mRestaurant= restaurants;
 
     }
 
@@ -69,7 +69,7 @@ public class ActivityListAdapter extends RecyclerView.Adapter<ActivityListAdapte
             mContext = itemView.getContext();
             itemView.setOnClickListener(this);
         }
-        public void bindRestaurant(Restaurant restaurant) {
+        public void bindRestaurant(Business restaurant) {
             mNameTextView.setText(restaurant.getName());
             Picasso.get().load(restaurant.getImageUrl()).into(mRestaurantImageView);
         }

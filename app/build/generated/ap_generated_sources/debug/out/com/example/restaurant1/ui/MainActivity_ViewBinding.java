@@ -3,7 +3,6 @@ package com.example.restaurant1.ui;
 
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.TextView;
 import androidx.annotation.CallSuper;
 import androidx.annotation.UiThread;
@@ -26,8 +25,8 @@ public class MainActivity_ViewBinding implements Unbinder {
     this.target = target;
 
     target.mStateButton = Utils.findRequiredViewAsType(source, R.id.state, "field 'mStateButton'", Button.class);
-    target.mLocationEditText = Utils.findRequiredViewAsType(source, R.id.locationEditText, "field 'mLocationEditText'", EditText.class);
     target.mAppNameTextView = Utils.findRequiredViewAsType(source, R.id.appNameTextView, "field 'mAppNameTextView'", TextView.class);
+    target.mSavedRestaurantsButton = Utils.findRequiredViewAsType(source, R.id.savedRestaurantsButton, "field 'mSavedRestaurantsButton'", Button.class);
   }
 
   @Override
@@ -38,7 +37,7 @@ public class MainActivity_ViewBinding implements Unbinder {
     this.target = null;
 
     target.mStateButton = null;
-    target.mLocationEditText = null;
     target.mAppNameTextView = null;
+    target.mSavedRestaurantsButton = null;
   }
 }

@@ -17,9 +17,6 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-//import io.github.vinge1718.restaurant.Constants;
-//import io.github.vinge1718.restaurant.models.Restaurant;
-
 public class YelpService {
     public static void findRestaurants(String location, Callback callback){
         OkHttpClient client = new OkHttpClient.Builder()
@@ -64,8 +61,8 @@ public class YelpService {
                     for (int y = 0; y < categoriesJSON.length(); y++){
                         categories.add(categoriesJSON.getJSONObject(y).getString("title"));
                     }
-                    Restaurant restaurant = new Restaurant(name, phone, website, rating, imageUrl, address, latitude, longitude, categories);
-
+                    Restaurant restaurant = new Restaurant(name, phone, website, rating,
+                            imageUrl, address, latitude, longitude, categories);
                     restaurants.add(restaurant);
                 }
             }

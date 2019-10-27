@@ -1,20 +1,31 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/85e257a6babe96d3b8085bcd76499598/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/fbf2c97bae5dda0f6e7d52aee9408ed8/jetified-firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
+MERGED from [com.firebaseui:firebase-ui-database:3.3.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ea422c56f2cab5beb0483acae1f4fbf2/jetified-firebase-ui-database-3.3.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.6] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab7a982534068226a100eb19ff1ea69d/jetified-firebase-database-16.0.6/AndroidManifest.xml:15:1-27:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/47337dae83a24f861277a63c1e277888/jetified-firebase-storage-16.0.4/AndroidManifest.xml:15:1-26:12
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/c2b9ff6b6b5b3e2a6f71c500953af5a4/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/899fec344e2570c285d3c17ac5253b40/firebase-core-16.0.4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/845f686d751795d40b7c2a441ef0b3e4/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/40a43734865e196339c94d0caf27bd87/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/48914c95a0821db2cc8f5a0096399377/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/22126c6f21108a38b996cd7a4a29764e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/f7ce5cf3edb67fc88746aaca005f446f/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ba541913c9794aa25c45fdb88ef3ceff/jetified-play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/e158eac13d9db02d5b1299af94df24e4/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/21d0a15f659e005cb1dbfef2a97076b8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab4d72fdc4263a03fc609ea1b14fbe0c/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.jakewharton:butterknife:10.2.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/9ac632eb65a39e5daaa64345e8cf2dec/butterknife-10.2.0/AndroidManifest.xml:2:1-7:12
@@ -39,6 +50,7 @@ MERGED from [androidx.core:core:1.0.1] /home/saphani/.gradle/caches/transforms-2
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/0150aea6f0427790b968ac16d0f01a76/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/25fdd493a672d7b5d446aa2af8c06677/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/3423924de632ee66e67606fd54b3deb2/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:3.3.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/b911f6e2652e275c4b0bc065f4a2f8f6/jetified-firebase-ui-common-3.3.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/31820fea8d5074e894dcda880d2751ad/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/a258954b59e52ea64468e7c8b611841e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/ac265cfd5669b686a3cba2f45a6e36b7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -48,45 +60,79 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saphani/.gradle/cac
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/67688366c6a6c762e55784305fcbc09b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/f5e5093a6d2ffb564f346d2769a020dc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/c92e9c6549150a4bd8eb347f54ac769d/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/dfa85ef2ef2f15544ca6328533e11ff4/firebase-database-collection-16.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/77a7cd24cef6076f7523a46dbf40ccc5/play-services-measurement-base-16.0.3/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:3:5-38
 		INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
 		INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-37:12
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/fbf2c97bae5dda0f6e7d52aee9408ed8/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/fbf2c97bae5dda0f6e7d52aee9408ed8/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.3.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ea422c56f2cab5beb0483acae1f4fbf2/jetified-firebase-ui-database-3.3.1/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.3.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ea422c56f2cab5beb0483acae1f4fbf2/jetified-firebase-ui-database-3.3.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.6] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab7a982534068226a100eb19ff1ea69d/jetified-firebase-database-16.0.6/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.6] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab7a982534068226a100eb19ff1ea69d/jetified-firebase-database-16.0.6/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/47337dae83a24f861277a63c1e277888/jetified-firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/47337dae83a24f861277a63c1e277888/jetified-firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:7:5-35:19
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:7:5-32:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/c2b9ff6b6b5b3e2a6f71c500953af5a4/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/c2b9ff6b6b5b3e2a6f71c500953af5a4/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/899fec344e2570c285d3c17ac5253b40/firebase-core-16.0.4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/899fec344e2570c285d3c17ac5253b40/firebase-core-16.0.4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/845f686d751795d40b7c2a441ef0b3e4/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/845f686d751795d40b7c2a441ef0b3e4/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/40a43734865e196339c94d0caf27bd87/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/40a43734865e196339c94d0caf27bd87/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/48914c95a0821db2cc8f5a0096399377/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/48914c95a0821db2cc8f5a0096399377/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:9:5-15:19
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/22126c6f21108a38b996cd7a4a29764e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/22126c6f21108a38b996cd7a4a29764e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/f7ce5cf3edb67fc88746aaca005f446f/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/f7ce5cf3edb67fc88746aaca005f446f/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ba541913c9794aa25c45fdb88ef3ceff/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ba541913c9794aa25c45fdb88ef3ceff/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/e158eac13d9db02d5b1299af94df24e4/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/e158eac13d9db02d5b1299af94df24e4/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/21d0a15f659e005cb1dbfef2a97076b8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/21d0a15f659e005cb1dbfef2a97076b8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
 MERGED from [com.squareup.picasso:picasso:2.71828] /home/saphani/.gradle/caches/transforms-2/files-2.1/fb91ac996647162e07d3eea74fd84501/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
@@ -95,60 +141,64 @@ MERGED from [androidx.core:core:1.0.1] /home/saphani/.gradle/caches/transforms-2
 MERGED from [androidx.core:core:1.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/0150aea6f0427790b968ac16d0f01a76/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/0150aea6f0427790b968ac16d0f01a76/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/77a7cd24cef6076f7523a46dbf40ccc5/play-services-measurement-base-16.0.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/77a7cd24cef6076f7523a46dbf40ccc5/play-services-measurement-base-16.0.3/AndroidManifest.xml:7:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:11:9-35
 	android:label
 		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:10:9-41
-	android:roundIcon
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
 		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
 		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:13:9-40
-activity#com.example.restaurant1.ui.MyActivityList
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:15:9-19:20
-	android:name
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:15:19-75
-meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:16:13-18:75
-	android:value
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:18:17-72
-	android:name
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:17:17-63
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.example.restaurant1.ui.MainActivity
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:20:9-28:20
-	android:theme
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:22:13-52
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:13:9-14:46
 	android:name
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:21:13-44
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:23:13-27:29
-action#android.intent.action.MAIN
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:24:17-69
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:14:13-44
+activity#com.example.restaurant1.ui.RestaurantActivity
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:17:9-21:20
 	android:name
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:24:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:26:17-77
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:17:19-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:18:13-20:52
+	android:value
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:20:17-49
 	android:name
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:26:27-74
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:19:17-63
 activity#com.example.restaurant1.ui.ActivityDetailActivity
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:29:9-95
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:22:9-63
 	android:name
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:29:19-83
-activity#com.example.restaurant1.ui.ActivityDetailFragment
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:30:9-95
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:22:19-60
+activity#com.example.restaurant1.ui.SavedRestaurantListActivity
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:23:9-68
 	android:name
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:30:19-83
-meta-data#preloaded_fonts
-ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:32:9-34:57
-	android:resource
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:34:13-54
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:23:19-65
+activity#com.example.restaurant1.ui.CreateAccountActivity
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:24:9-62
 	android:name
-		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:33:13-43
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:24:19-59
+activity#com.example.restaurant1.ui.LoginActivity
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:25:9-30:20
+	android:name
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:25:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:28:27-74
+activity#com.example.restaurant1.ui.MyActivityList
+ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:31:9-54
+	android:name
+		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml:31:19-52
 uses-sdk
 INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
@@ -157,24 +207,46 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] /home/saphani/.gradle/caches/tr
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/85e257a6babe96d3b8085bcd76499598/appcompat-1.0.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/fbf2c97bae5dda0f6e7d52aee9408ed8/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/fbf2c97bae5dda0f6e7d52aee9408ed8/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.firebaseui:firebase-ui-database:3.3.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ea422c56f2cab5beb0483acae1f4fbf2/jetified-firebase-ui-database-3.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.3.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ea422c56f2cab5beb0483acae1f4fbf2/jetified-firebase-ui-database-3.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.6] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab7a982534068226a100eb19ff1ea69d/jetified-firebase-database-16.0.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.6] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab7a982534068226a100eb19ff1ea69d/jetified-firebase-database-16.0.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/47337dae83a24f861277a63c1e277888/jetified-firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/47337dae83a24f861277a63c1e277888/jetified-firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/c2b9ff6b6b5b3e2a6f71c500953af5a4/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/c2b9ff6b6b5b3e2a6f71c500953af5a4/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/899fec344e2570c285d3c17ac5253b40/firebase-core-16.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/899fec344e2570c285d3c17ac5253b40/firebase-core-16.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/845f686d751795d40b7c2a441ef0b3e4/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/845f686d751795d40b7c2a441ef0b3e4/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/40a43734865e196339c94d0caf27bd87/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/40a43734865e196339c94d0caf27bd87/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/48914c95a0821db2cc8f5a0096399377/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/48914c95a0821db2cc8f5a0096399377/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/22126c6f21108a38b996cd7a4a29764e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/22126c6f21108a38b996cd7a4a29764e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/f7ce5cf3edb67fc88746aaca005f446f/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/f7ce5cf3edb67fc88746aaca005f446f/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ba541913c9794aa25c45fdb88ef3ceff/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/ba541913c9794aa25c45fdb88ef3ceff/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/e158eac13d9db02d5b1299af94df24e4/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/e158eac13d9db02d5b1299af94df24e4/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/21d0a15f659e005cb1dbfef2a97076b8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/21d0a15f659e005cb1dbfef2a97076b8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab4d72fdc4263a03fc609ea1b14fbe0c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
@@ -223,6 +295,8 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saphani/.gradle/c
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/25fdd493a672d7b5d446aa2af8c06677/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/3423924de632ee66e67606fd54b3deb2/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/3423924de632ee66e67606fd54b3deb2/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:3.3.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/b911f6e2652e275c4b0bc065f4a2f8f6/jetified-firebase-ui-common-3.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:3.3.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/b911f6e2652e275c4b0bc065f4a2f8f6/jetified-firebase-ui-common-3.3.1/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/31820fea8d5074e894dcda880d2751ad/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/31820fea8d5074e894dcda880d2751ad/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/a258954b59e52ea64468e7c8b611841e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
@@ -241,6 +315,10 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saphani/.gr
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/f5e5093a6d2ffb564f346d2769a020dc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/c92e9c6549150a4bd8eb347f54ac769d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/c92e9c6549150a4bd8eb347f54ac769d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/dfa85ef2ef2f15544ca6328533e11ff4/firebase-database-collection-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/dfa85ef2ef2f15544ca6328533e11ff4/firebase-database-collection-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/77a7cd24cef6076f7523a46dbf40ccc5/play-services-measurement-base-16.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/77a7cd24cef6076f7523a46dbf40ccc5/play-services-measurement-base-16.0.3/AndroidManifest.xml:5:5-44
 INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
 INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -252,39 +330,169 @@ INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/Andro
 		ADDED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
 		INJECTED from /home/saphani/AndroidStudioProjects/Restaurant1/app/src/main/AndroidManifest.xml
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:26:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:28:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:27:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:29:13-102
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:30:13-72
 	tools:replace
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:31:13-47
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:31:13-47
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:25:13-85
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:34:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:36:13-38:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:38:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/saphani/.gradle/caches/transforms-2/files-2.1/92b385f17d0939c7d9d103b61d1dce4e/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/35c48d48dcd7999b849c2d3744ab3da6/jetified-firebase-auth-16.1.0/AndroidManifest.xml:37:17-109
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-database:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/fbf2c97bae5dda0f6e7d52aee9408ed8/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+ADDED from [com.google.firebase:firebase-database:16.0.6] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab7a982534068226a100eb19ff1ea69d/jetified-firebase-database-16.0.6/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/47337dae83a24f861277a63c1e277888/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/47337dae83a24f861277a63c1e277888/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-database:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/fbf2c97bae5dda0f6e7d52aee9408ed8/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:22-76
+		ADDED from [com.google.firebase:firebase-database:16.0.6] /home/saphani/.gradle/caches/transforms-2/files-2.1/ab7a982534068226a100eb19ff1ea69d/jetified-firebase-database-16.0.6/AndroidManifest.xml:24:22-76
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/ca853a1eb3c3512ea3b45122a79c66db/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/dac704b62aa11e9c67aac08132f4cf7e/jetified-firebase-measurement-connector-impl-17.0.2/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/saphani/.gradle/caches/transforms-2/files-2.1/6090db4c5487a5468b3c9becf08ff4e6/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/2291e05f703cbc84cf97cfbe152da3c8/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/6e23e0150086a9d4ff84497cb4c2da51/jetified-firebase-iid-17.0.4/AndroidManifest.xml:54:25-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/48914c95a0821db2cc8f5a0096399377/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -294,15 +502,15 @@ ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/saphani/.gra
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/saphani/.gradle/caches/transforms-2/files-2.1/48914c95a0821db2cc8f5a0096399377/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+ADDED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:10:9-14:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:12:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:13:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/saphani/.gradle/caches/transforms-2/files-2.1/a6f4a22513c189e19149785cf250e3bb/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/saphani/.gradle/caches/transforms-2/files-2.1/5af0dcfb8456513b6b1b12b663de9747/jetified-firebase-common-16.0.4/AndroidManifest.xml:11:13-77
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/saphani/.gradle/caches/transforms-2/files-2.1/21d0a15f659e005cb1dbfef2a97076b8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
 	android:value

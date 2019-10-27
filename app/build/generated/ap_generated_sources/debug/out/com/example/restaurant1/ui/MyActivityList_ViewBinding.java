@@ -2,6 +2,8 @@
 package com.example.restaurant1.ui;
 
 import android.view.View;
+import android.widget.ProgressBar;
+import android.widget.TextView;
 import androidx.annotation.CallSuper;
 import androidx.annotation.UiThread;
 import androidx.recyclerview.widget.RecyclerView;
@@ -24,6 +26,8 @@ public class MyActivityList_ViewBinding implements Unbinder {
     this.target = target;
 
     target.mRecyclerView = Utils.findRequiredViewAsType(source, R.id.recyclerView, "field 'mRecyclerView'", RecyclerView.class);
+    target.mProgressBar = Utils.findRequiredViewAsType(source, R.id.progressBar, "field 'mProgressBar'", ProgressBar.class);
+    target.mErrorTextView = Utils.findRequiredViewAsType(source, R.id.errorTextView, "field 'mErrorTextView'", TextView.class);
   }
 
   @Override
@@ -34,5 +38,7 @@ public class MyActivityList_ViewBinding implements Unbinder {
     this.target = null;
 
     target.mRecyclerView = null;
+    target.mProgressBar = null;
+    target.mErrorTextView = null;
   }
 }
